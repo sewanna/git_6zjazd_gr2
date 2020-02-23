@@ -2,4 +2,4 @@
 
 ###Aby skorzystać z projektu trzeba sklonowac  repozytorium lub skorzystać z Github Pages.
 Więcej o projekcie:
-[I'm an inline-style link](https://www.google.com)
+[Link](https://www.wsb.pl)
